@@ -48,7 +48,7 @@ Atualmente estou concluindo o ensino médio na **[ETEC Prof. Adolpho Arruda Mell
 
 ## 🕸️ Snake Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KaizenLz/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/KaizenLz/KaizenLz/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
