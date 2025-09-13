@@ -60,7 +60,7 @@ Atualmente estou concluindo o ensino médio na **[ETEC Prof. Adolpho Arruda Mell
   <a href="https://luizport.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:rodriguesdossantosl937@gmail.com" target="_blank">
+  <a href="emailto:rodriguesdossantosl937@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
