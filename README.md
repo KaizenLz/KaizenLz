@@ -32,8 +32,7 @@ Atualmente estou concluindo o ensino médio na **[ETEC Prof. Adolpho Arruda Mell
 
 | 🕸️ Projeto | 💻 Tecnologias | 🔗 Link |
 |------------|---------------|---------|
-| **Codex Underground** | `JS` `CSS` `HTML` | *Em breve* |
-| **Sistema de Inventário Godot** | `GDScript` `Godot` | *Privado* |
+| **HarpHub** | `JS` `CSS` `HTML` `PHP` | *Em breve* |
 | **Portfólio Pessoal** | `HTML` `CSS` `JS` | [Acessar](https://luizport.netlify.app/) |
 
 ---
