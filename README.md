@@ -78,7 +78,7 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 > Um toque divertido para o perfil!  
 > O gráfico abaixo mostra a atividade do GitHub de forma animada.
 
-![snake gif](https://github.com/Darkness-Vt/Darkness-Vt/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Darkness-Vt/KaizenLz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
