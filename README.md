@@ -57,7 +57,7 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 
 ## 🎯 Objetivos
 - Aprimorar minhas habilidades em **Desenvolvimento Full-Stack**.  
-- Aprofundar meus conhecimentos em **cybersecurity** e **redes de computadores**.  
+- Aprofundar meus conhecimentos em **Cybersecurity** e **Redes de Computadores**.  
 - Contribuir para **projetos open-source** e crescer como profissional.  
 - Criar sistemas completos e escaláveis.
 
@@ -76,9 +76,10 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 
 ## 🐍 Snake Game dos Commits
 > Um toque divertido para o perfil!  
-> O gráfico abaixo mostra a atividade do GitHub de forma animada.
+> O gráfico abaixo mostra a atividade do GitHub de forma animada, mudando entre **tema claro e escuro** automaticamente.
 
-![snake gif]([https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake.svg](https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake.svg))
+![Snake animation light](https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
@@ -87,4 +88,3 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 💡 *"Transformando problemas em soluções, uma linha de código por vez."*  
 
 </div>
-
