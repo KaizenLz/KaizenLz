@@ -78,8 +78,8 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 > Um toque divertido para o perfil!  
 > O gráfico abaixo mostra a atividade do GitHub de forma animada, mudando entre **tema claro e escuro** automaticamente.
 
-![Snake animation light](https://github.com/KaizenLz/KaizenLz/blob/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://github.com/KaizenLz/KaizenLz/blob/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
