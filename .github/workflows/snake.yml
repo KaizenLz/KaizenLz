@@ -26,4 +26,6 @@ jobs:
         with:
           message: "Generate snake animation"
           add: "dist/*"
-          branch: output
+          new_branch: output   # Substitui o 'branch'
+          push: true           # Necessário para enviar ao repositório
+          default_author: github_actions
