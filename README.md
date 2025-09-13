@@ -48,8 +48,8 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Darkness-Vt&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkness-Vt&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=KaizenLz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenLz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
@@ -78,7 +78,7 @@ Sou apaixonado por **programação, lógica e resolução de problemas**, sempre
 > Um toque divertido para o perfil!  
 > O gráfico abaixo mostra a atividade do GitHub de forma animada.
 
-![snake gif](https://github.com/Darkness-Vt/KaizenLz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KaizenLz/KaizenLz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
