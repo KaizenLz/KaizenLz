@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule: # Executa automaticamente a cada 12h
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite rodar manualmente quando quiser
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
@@ -17,11 +17,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: KaizenLz
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "dist/*"
           branch: output
