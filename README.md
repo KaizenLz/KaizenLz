@@ -12,7 +12,7 @@
 > "Com grandes poderes, vêm grandes responsabilidades."
 
 Sou **Luiz Fernando Rodrigues dos Santos**, tenho **18 anos**, moro em **São Paulo** e sou apaixonado por **programação** e **resolução de problemas lógicos**.  
-Atualmente estou concluindo o ensino médio na **[ETEC Prof. Adolpho Arruda Mello](https://etecarrudamello.cps.sp.gov.br/)** e planejando cursar **Análise e Desenvolvimento de Sistemas (FATEC)** ou **Ciência da Computação (UNESP)**.
+Conclui o ensino médio técnico na **[ETEC Prof. Adolpho Arruda Mello](https://etecarrudamello.cps.sp.gov.br/)** onde fiz dois curso, **Técnico de informática para Internet** e **Redes de Computadores**. Atualmente estou cursando Engenharia de Software pela **[Universidade do Oeste Paulista](https://www.unoeste.br/)**
 
 - 🕹️ **Foco atual:** Desenvolvimento **Full-Stack**  
 - 🌐 Portfólio Web: [luizport.netlify.app](https://luizport.netlify.app/)  
